@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Twilight Line",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-18T07:05:51.617384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Twilight Line",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/01_Twilight_Line_HACHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Twilight Line (Acoustic Live)",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/02_Twilight_Line_(Acoustic_Live)_HACHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Twilight Line",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Twilight_Line_HACHI.txt"
+    }
+  ]
+}
